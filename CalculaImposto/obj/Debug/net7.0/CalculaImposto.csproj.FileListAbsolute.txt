@@ -1,0 +1,14 @@
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\bin\Debug\net7.0\CalculaImposto.exe
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\bin\Debug\net7.0\CalculaImposto.deps.json
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\bin\Debug\net7.0\CalculaImposto.runtimeconfig.json
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\bin\Debug\net7.0\CalculaImposto.dll
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\bin\Debug\net7.0\CalculaImposto.pdb
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\CalculaImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\CalculaImposto.AssemblyInfoInputs.cache
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\CalculaImposto.AssemblyInfo.cs
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\CalculaImposto.csproj.CoreCompileInputs.cache
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\CalculaImposto.dll
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\refint\CalculaImposto.dll
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\CalculaImposto.pdb
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\CalculaImposto.genruntimeconfig.cache
+C:\Users\francisco\source\repos\CalculaImposto\CalculaImposto\obj\Debug\net7.0\ref\CalculaImposto.dll
